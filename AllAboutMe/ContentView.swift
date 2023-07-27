@@ -39,7 +39,7 @@ struct ContentView: View {
 
     
             Button("Click Here For Fun Fact") {
-                toBeShown = "I went to the Taylor Swift's Eras tour in Pittsburgh!"
+                toBeShown = "I went to Taylor Swift's Eras tour in Pittsburgh!"
                 
                 
             }
